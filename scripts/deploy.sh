@@ -17,7 +17,7 @@ php bin/magento setup:install \
         --db-user=magento \
         --db-password=secret \
         --backend-frontname=admin \
-        --base-url=http://local.magento2.strakertranslations.com \
+        --base-url=http://local-magento2.strakertranslations.com \
         --language=en_US \
         --timezone=UTC \
         --currency=USD \
